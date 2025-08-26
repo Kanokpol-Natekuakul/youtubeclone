@@ -117,5 +117,11 @@ console.log(value_converter(123));     // ผลลัพธ์: "123"
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) - ใช้ Babel สำหรับ Fast Refresh
 - ESLint rules สำหรับการพัฒนาที่มีคุณภาพ
 
+# credit
+
+- https://youtu.be/lpx2zFkapIk?si=X6J7cSRYUhdDVFjb
+
+ฝึกฝนและศึกษาจากคลิปนี้
+
 
 สร้างด้วย ❤️ โดยใช้ React และ Vite
